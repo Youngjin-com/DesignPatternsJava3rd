@@ -3,9 +3,7 @@
 
 <img src="https://www.youngjin.com/images/book_cover/9788931467505.jpg" height="350px" style="border: 2px solid grey;">
 
-[JAVA 언어로 배우는 디자인 패턴 입문 3판
-
- (영진닷컴)](https://blog.naver.com/ydot/222911141970)
+[JAVA 언어로 배우는 디자인 패턴 입문 3판(영진닷컴)](https://blog.naver.com/ydot/222911141970)
 
 『JAVA 언어로 배우는 디자인 패턴 입문 3판』는 프로그래밍을 배워 본 적이 없는 분들도 충분히 학습할 수 있도록 Java의 기초부터 심화 내용까지 그림으로 쉽게 설명하는 Java 입문서입니다. 기존 출간되었던 『그림으로 배우는 Java Programming』의 3판으로, Java 11 개발 환경에 대응하며, Java를 사용하기 위한 개발 환경 구축부터 기본적인 Java 문법 설명, Java 응용을 위한 그래픽 애플리케이션 내용까지 다루고 있습니다.
 
